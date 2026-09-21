@@ -9,7 +9,7 @@ Elementos_cara = namedtuple('Elmentos_cara', ['cara', 'ojos'])
 """"
 SI SE USA EN OTRO DISPOSITIVO CAMBIAR LA RUTA.
 EL FICHERO ESTA EN EL REPOSITORIO JUNTO AL CODIGO
-
+https://github.com/opencv/opencv/tree/4.x 
 """
 
 
